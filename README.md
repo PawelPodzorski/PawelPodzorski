@@ -1,7 +1,7 @@
 # Paweł Podżorski
 
 Computer Science student at PJATK in Warsaw. Aspiring Developer interested in C++ and modern software development (C++ | C# | ASP.NET)  
-Passionate about creating applications with .NET and robotics.
+Passionate about AI-assisted development, modern technologies, and building scalable software solutions.
 
 ---
 
